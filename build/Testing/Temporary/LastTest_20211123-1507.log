@@ -1,0 +1,21 @@
+Start testing: Nov 23 16:40 Rom, normaltid
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/build/tests/tests.exe"
+Directory: C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/build/tests
+"usage_test" start time: Nov 23 16:40 Rom, normaltid
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (13 assertions in 1 test case)
+
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 23 16:40 Rom, normaltid
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 23 16:40 Rom, normaltid

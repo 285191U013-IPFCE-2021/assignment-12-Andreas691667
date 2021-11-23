@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/mymath.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\mymath.dir\\src\\duration.cpp.obj -c C:\\Users\\Andreas\\Desktop\\VSCode\\Afleveringer\\assignment-12-Andreas691667-1\\src\\duration.cpp",
+  "file": "C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/src/duration.cpp"
+},
+{
+  "directory": "C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\Users\\Andreas\\Desktop\\VSCode\\Afleveringer\\assignment-12-Andreas691667-1\\src\\main.cpp",
+  "file": "C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/build/tests",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/tests.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c C:\\Users\\Andreas\\Desktop\\VSCode\\Afleveringer\\assignment-12-Andreas691667-1\\tests\\src\\tests.cpp",
+  "file": "C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/tests/src/tests.cpp"
+}
+]
