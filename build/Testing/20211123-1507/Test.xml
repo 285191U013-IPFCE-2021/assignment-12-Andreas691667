@@ -24,8 +24,8 @@
 	ProcessorClockFrequency="1996"
 	>
 	<Testing>
-		<StartDateTime>Nov 23 16:40 Rom, normaltid</StartDateTime>
-		<StartTestTime>1637682018</StartTestTime>
+		<StartDateTime>Nov 23 18:18 Rom, normaltid</StartDateTime>
+		<StartTestTime>1637687931</StartTestTime>
 		<TestList>
 			<Test>./tests/usage_test</Test>
 		</TestList>
@@ -36,7 +36,7 @@
 			<FullCommandLine>C:\Users\Andreas\Desktop\VSCode\Afleveringer\assignment-12-Andreas691667-1\build\tests\tests.exe</FullCommandLine>
 			<Results>
 				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.0363186</Value>
+					<Value>0.042048</Value>
 				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Processors">
 					<Value>1</Value>
@@ -55,8 +55,8 @@
 				</Measurement>
 			</Results>
 		</Test>
-		<EndDateTime>Nov 23 16:40 Rom, normaltid</EndDateTime>
-		<EndTestTime>1637682018</EndTestTime>
+		<EndDateTime>Nov 23 18:18 Rom, normaltid</EndDateTime>
+		<EndTestTime>1637687931</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

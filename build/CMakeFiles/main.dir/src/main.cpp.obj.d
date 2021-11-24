@@ -1,6 +1,5 @@
 CMakeFiles/main.dir/src/main.cpp.obj: \
  C:\Users\Andreas\Desktop\VSCode\Afleveringer\assignment-12-Andreas691667-1\src\main.cpp \
- C:/Users/Andreas/Desktop/VSCode/Afleveringer/assignment-12-Andreas691667-1/include/duration.hpp \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stddef.h \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/x86_64-w64-mingw32/include/stddef.h \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
