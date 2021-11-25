@@ -5,7 +5,7 @@
 //constructor (no start value)
 Duration::Duration() {
     time = 0; //in this constructor, the time should be initialized to 0
-    alarm = 0; //alarm is initialized to 0
+    alarm = -1; //alarm is initialized to -1
     alarmHasBeenSet = false; //no alarm has been set constructor
 }
 
@@ -14,7 +14,7 @@ Duration::Duration(int t) {
     assert(time>=0); //precondition
 
     time = t; //in this constructor, the time should be set to input value t
-    alarm = 0; //alarm is initialized to 0
+    alarm = -1; //alarm is initialized to -1
     alarmHasBeenSet = false; //no alarm has been set in constructor
 }
 
@@ -49,7 +49,7 @@ bool Duration::checkAndUpdateAlarm() {
     if (time >= alarm)
     {
         alarmHasBeenSet = true;
-        alarm = 0; //alarm is reset
+        alarm = -1; //alarm is reset
     }
     else
         alarmHasBeenSet = false;
