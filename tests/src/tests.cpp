@@ -4,6 +4,8 @@
 
 TEST_CASE ("duration") {
 
+    //preconditions are tested through assert statements:)
+
     //creating three test cases: p, p1 and p2. Both without start value (p) and with start value (p1 and p2)
     Duration* p = new Duration();
     Duration* p1 = new Duration(6);
